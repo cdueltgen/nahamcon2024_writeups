@@ -49,7 +49,7 @@ in challenges like this. Any other binary analysis tool would probably do the tr
 learning this one.
 
 The first tutorial in Binary Ninja tells you to check the "Triage Summary" first, so that's what I did. It showed a lot
-things that looked like strings than `strings` did, but still no obvious flags.
+more things that looked like strings than `strings` did, but still no obvious flags.
 
 There were a bunch of things in the strings section that looked like they could be function names of a sort.
 The most promising of these was: `_$s6taylor9flagCheckySbSSF`
