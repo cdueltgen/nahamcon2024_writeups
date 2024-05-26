@@ -12,5 +12,4 @@ Everyone's a beginner at some point, and I hope my writeups will help another be
 * Seventy Eight
 * Base3200
 * 1337 Malware
-### TODO
-* Taylor's First Swift (maybe)
+* Taylor's First Swift
